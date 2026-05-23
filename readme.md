@@ -1,6 +1,15 @@
 
 # Pi Weather Station
 
+![Status](https://img.shields.io/badge/status-archived-64748b)
+![Fork](https://img.shields.io/badge/repo-archived%20fork-64748b)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-touchscreen%20weather%20station-c51a4a)
+![Docker](https://img.shields.io/badge/Docker-containerized-2496ed)
+
+Archived fork of a Raspberry Pi touchscreen weather-station application. This fork is preserved as an older hardware/containerization experiment, not as an actively maintained project.
+
+The original application and license attribution remain below.
+
 This is a weather station designed to be used with a Raspberry Pi on the official 7" 800x480 touchscreen.
 
 ![pws-screenshot3](https://user-images.githubusercontent.com/15202038/91359998-4625bb80-e7bb-11ea-937e-c87eede41f35.JPG)
